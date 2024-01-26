@@ -1,0 +1,56 @@
+[
+{
+  "directory": "D:/HW/build/src/atp",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/atp.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\atp.dir\\ATPElement.cpp.obj -c D:\\HW\\src\\atp\\ATPElement.cpp",
+  "file": "D:/HW/src/atp/ATPElement.cpp",
+  "output": "src/atp/CMakeFiles/atp.dir/ATPElement.cpp.obj"
+},
+{
+  "directory": "D:/HW/build/src/atp",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/atp.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\atp.dir\\ATPTreeGenerator.cpp.obj -c D:\\HW\\src\\atp\\ATPTreeGenerator.cpp",
+  "file": "D:/HW/src/atp/ATPTreeGenerator.cpp",
+  "output": "src/atp/CMakeFiles/atp.dir/ATPTreeGenerator.cpp.obj"
+},
+{
+  "directory": "D:/HW/build/src/atp",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/atp.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\atp.dir\\Commands.cpp.obj -c D:\\HW\\src\\atp\\Commands.cpp",
+  "file": "D:/HW/src/atp/Commands.cpp",
+  "output": "src/atp/CMakeFiles/atp.dir/Commands.cpp.obj"
+},
+{
+  "directory": "D:/HW/build/src/atp",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/atp.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\atp.dir\\Runner.cpp.obj -c D:\\HW\\src\\atp\\Runner.cpp",
+  "file": "D:/HW/src/atp/Runner.cpp",
+  "output": "src/atp/CMakeFiles/atp.dir/Runner.cpp.obj"
+},
+{
+  "directory": "D:/HW/build/src/app",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\app.dir\\main.cpp.obj -c D:\\HW\\src\\app\\main.cpp",
+  "file": "D:/HW/src/app/main.cpp",
+  "output": "src/app/CMakeFiles/app.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/HW/build/src/app",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\app.dir\\__\\atp\\ATPElement.cpp.obj -c D:\\HW\\src\\atp\\ATPElement.cpp",
+  "file": "D:/HW/src/atp/ATPElement.cpp",
+  "output": "src/app/CMakeFiles/app.dir/__/atp/ATPElement.cpp.obj"
+},
+{
+  "directory": "D:/HW/build/src/app",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\app.dir\\__\\atp\\ATPTreeGenerator.cpp.obj -c D:\\HW\\src\\atp\\ATPTreeGenerator.cpp",
+  "file": "D:/HW/src/atp/ATPTreeGenerator.cpp",
+  "output": "src/app/CMakeFiles/app.dir/__/atp/ATPTreeGenerator.cpp.obj"
+},
+{
+  "directory": "D:/HW/build/src/app",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\app.dir\\__\\atp\\Commands.cpp.obj -c D:\\HW\\src\\atp\\Commands.cpp",
+  "file": "D:/HW/src/atp/Commands.cpp",
+  "output": "src/app/CMakeFiles/app.dir/__/atp/Commands.cpp.obj"
+},
+{
+  "directory": "D:/HW/build/src/app",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++1z -o CMakeFiles\\app.dir\\__\\atp\\Runner.cpp.obj -c D:\\HW\\src\\atp\\Runner.cpp",
+  "file": "D:/HW/src/atp/Runner.cpp",
+  "output": "src/app/CMakeFiles/app.dir/__/atp/Runner.cpp.obj"
+}
+]
