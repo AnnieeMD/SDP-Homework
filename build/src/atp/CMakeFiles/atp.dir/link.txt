@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libatp.a CMakeFiles/atp.dir/ATPElement.cpp.obj CMakeFiles/atp.dir/ATPTreeGenerator.cpp.obj CMakeFiles/atp.dir/Commands.cpp.obj CMakeFiles/atp.dir/Runner.cpp.obj
+C:\MinGW\bin\ranlib.exe libatp.a
